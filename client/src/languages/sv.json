@@ -1,0 +1,29 @@
+{
+  "login.success":"Du har blivit inloggad!",
+  "login.error": "Ett problem uppstod när du försökte logga in, försök igen senare!",
+  "logout.success":"Du har blivit utloggad!",
+  "logout.error": "Ett problem uppstod när du försökte logga ut, försök igen senare!",
+
+  "navbar.home": "Hem",
+  "navbar.menu": "Meny",
+  "navbar.about": "Om oss",
+  "navbar.contact": "Kontakta",
+
+  "home.openHours": "Öppet tis-tors 16-22 fre-lör 16-23",
+  "home.summerClosed": "Sommarstängt 9 juli - 14 augusti",
+  "home.wineAndCider": "Vin & Ciderbar",
+  "home.bookingInfo": "Vi har möblerat om lite och med några fler bord öppnar vi nu för möjligheten att boka bord för matgäster. Hälften av borden håller vi dock för spontanbesökare!",
+  "home.aboutUsTitle": "OM OSS",
+  "home.aboutTextOne": "Enoteca la Mela är en liten italiensk vinbar i Hornstull med ett rejält utbud av cider, därav namnet ”Äpplet”. Vi har mestadels egenimporterade viner, mycket från Abruzzo men även ett och annat från andra regioner. Cidern är till största delen torr och av fransk typ och en del kommer att vara av egen produktion på Gotland. Maten är i huvudsak italiensk med små- och mellanrätter som man, om man vill, kan kombinera till en hel måltid. Vi som driver La Mela är tre systrar samt en ciderkonnässör och -producent. Vissa av oss bor delvis i Abruzzo och andra delvis på Gotland. En och annan gotländsk specialitet kommer säkert också att dyka upp. För dig som vill ta med dig lite av det goda hem, kommer vi också ha försäljning av t ex olivolja och kaffebönor från Abruzzo.",
+  "home.aboutTextTwo": "La Mela har ambitionen att vara en hemtrevlig vinbar och kvarterskrog med en fläkt av Italien där du kan slinka in för ett glas vin och äta något gott och enkelt men vällagat. Med ett bra och spännande utbud av cider vill vi lyfta den som måltidsdryck – kanske du upptäcker något nytt? Låter det som en knäpp kombination och lite spretigt? Lite knäppa är vi nog, eller som en i familjen sa - ”lite snett är också rakt” - tror det får bli vår devis.",
+  "home.aboutTextThree": "Hälften av våra sittplatser kan man boka, resten håller vi fria för spontanbesök!",
+
+  "footer.phone":"Tel:",
+  "footer.email":"E-post:",
+  "footer.openHours": "Öppettider",
+  "footer.openHours.tue-thu":"Tis-tors: 16-22",
+  "footer.openHours.fri-sat":"fre-lör: 16-23",
+  "footer.info.dogsAreWelcome": "Hundar är välkomna!",
+  "footer.info.bookingInfo": "Reservationer måste avbokas minst 24h innan den bokade tiden!"
+
+}

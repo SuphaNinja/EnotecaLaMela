@@ -1,0 +1,28 @@
+{
+  "login.success":"You've been logged in!",
+  "login.error": "An error occurred when you tried to log in, please try again later!",
+  "logout.success":"You've been logged out!",
+  "logout.error": "An error occurred when you tried to logout, please try again later!",
+
+  "navbar.home": "Home",
+  "navbar.menu": "Menu",
+  "navbar.about": "About",
+  "navbar.contact": "Contact",
+
+  "home.openHours": "Open Tue-Thu 16-22 Fri-Sat 16-23",
+  "home.summerClosed": "Closed for summer July 9th - August 14th",
+  "home.wineAndCider": "Wine & Cider Bar",
+  "home.bookingInfo": "We have rearranged a bit and with a few more tables, we are now offering the opportunity to book tables for dining guests. However, we are keeping half of the tables available for walk-in visitors!",
+  "home.aboutUsTitle": "ABOUT US",
+  "home.aboutTextOne": "Enoteca La Mela is a small Italian wine bar in Hornstull with a wide selection of ciders, hence the name \"The Apple\". We primarily feature imported wines, many from Abruzzo but also a few from other regions. The cider is mostly dry and of French style, with some produced locally on Gotland. The food consists mainly of Italian cuisine with small and medium-sized dishes that can be combined into a complete meal if desired. La Mela is run by three sisters and a cider enthusiast and producer. Some of us reside partially in Abruzzo and partially on Gotland. Occasionally, you may also find a few specialties from Gotland. For those who want to take home some of the goodness, we will also have sales of products such as olive oil and coffee beans from Abruzzo.",
+  "home.aboutTextTwo": "La Mela aims to be a cozy wine bar and neighborhood restaurant with a touch of Italy, where you can drop in for a glass of wine and enjoy something tasty, simple yet well-prepared. With a good and exciting selection of ciders, we aim to elevate it as a mealtime drink – perhaps you'll discover something new? Does it sound like an odd combination and a bit scattered? We're probably a bit quirky, or as someone in the family put it - 'a little crooked is also straight' - we think that will be our motto.",
+  "home.aboutTextThree": "Half of our seats can be reserved, the rest are kept available for walk-in guests!",
+
+  "footer.phone":"Phone:",
+  "footer.email":"Email:",
+  "footer.openHours": "Opening hours",
+  "footer.openHours.tue-thu":"Tue-Thu: 16-22",
+  "footer.openHours.fri-sat":"Fri-Sat: 16-23",
+  "footer.info.dogsAreWelcome": "Dogs are welcome",
+  "footer.info.bookingInfo": "Reservations must be canceled at least 24 hours before the booked time!"
+}
